@@ -1,0 +1,5 @@
+cdrConnectionReadWrite_Login,root
+cdrConnectionReadWrite_Port,3306
+cdrConnectionReadWrite_AdditionalParams,noDatetimeStringSync=true
+cdrConnectionReadWrite_Password,localhost
+cdrConnectionReadWrite_Database,cdr_test
